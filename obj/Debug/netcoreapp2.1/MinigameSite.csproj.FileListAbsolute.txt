@@ -30,3 +30,4 @@ c:\Users\daniel.cater\OneDrive - OTR CAPITAL LLC\Documents\Html\MinigameSite\obj
 c:\Users\daniel.cater\OneDrive - OTR CAPITAL LLC\Documents\Html\MinigameSite\obj\Debug\netcoreapp2.1\MinigameSite.dll
 c:\Users\daniel.cater\OneDrive - OTR CAPITAL LLC\Documents\Html\MinigameSite\obj\Debug\netcoreapp2.1\MinigameSite.pdb
 C:\Users\daniel.cater\OneDrive - OTR CAPITAL LLC\Documents\Html\MinigameSite\obj\Debug\netcoreapp2.1\MinigameSite.csproj.CopyComplete
+c:\Users\daniel.cater\OneDrive - OTR CAPITAL LLC\Documents\Html\MinigameSite\obj\Debug\netcoreapp2.1\Razor\Views\Casino\Index.g.cshtml.cs

@@ -2879,6 +2879,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Casino\\Index.cshtml",
+      "TargetPath": "Views\\Casino\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
